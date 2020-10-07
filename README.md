@@ -3,14 +3,15 @@ Simple Python SLAM implementation using A* algorithm and IR frontal proximity
 sensor of [Thymio](https://www.thymio.org/) educational mobile robot.
 
 ## Table of contents
-* [1. Description](#description)
-* [2. Getting started](#getting-started)
-    * [2.1 Dependencies](#dependencies)
-    * [2.2 Installing](#installing)
-    * [2.3 Working conditions](#working-conditions)
-    * [2.4 Executing program](#executing-program)
-* [3. Version history](#version-history)
+* [1. Description](#1-description)
+* [2. Getting started](#2-getting-started)
+    * [2.1 Dependencies](#21-dependencies)
+    * [2.2 Installing](#22-installing)
+    * [2.3 Working conditions](#23-working-conditions)
+    * [2.4 Executing program](#24-executing-program)
+* [3. Version history](#3-version-history)
 
+<!-- toc -->
 
 ## 1. Description
 Python implementation of Simultaneous Localization And Mapping (SLAM) using IR
