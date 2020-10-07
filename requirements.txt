@@ -1,0 +1,8 @@
+matplotlib==3.1.1
+imutils==0.5.3
+opencv-python==3.4.11.41
+Pillow==6.2.1
+pyglet==1.5.7
+numpy==1.16.3
+pyserial==3.4
+pynput==1.7.1

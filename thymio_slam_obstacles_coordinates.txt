@@ -1,0 +1,5 @@
+-- Thymio
+0,0
+S
+-- A* path
+-- Obstacles
