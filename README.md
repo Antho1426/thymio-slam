@@ -25,6 +25,7 @@ is continuously adjusted according to the newly detected obstacles
 
 ### 2.1 Dependencies
 * Tested on macOS Catalina version 10.15.7
+* Requires iTerm2 (Build 3.3.9) (or similar Terminal application)
 * Python 3.6
 
 ### 2.2 Installing
